@@ -6,12 +6,7 @@
 Para Ventix, hemos identificado tres tipos de competidores que actualmente dominan o influyen en el mercado del confort ambiental:
 
 - Gigantes del Smart Home (Xiaomi, Philips): Ofrecen ventiladores y purificadores con apps robustas pero cerradas.
-
-
-
 - Sistemas de Gama Alta (Dyson): Soluciones premium con sensores de alta precisión, pero a precios inalcanzables para el estudiante promedio.
-
-
 - Proyectos DIY de Nicho: Repositorios en GitHub de control básico de ventiladores, que son abiertos pero carecen de una interfaz web profesional o una API documentada.
 
 ### 2.1.1. Análisis competitivo.
@@ -175,6 +170,8 @@ Luego de haber realizado el análisis de nuestra solución con respecto a soluci
 ¿Qué tan dispuesto estarías a armar tu propio dispositivo (DIY) si el costo total fuera menor a 40 dólares?
 
 ¿Te genera confianza una plataforma que sea Open Source y te permita ver (o incluso modificar) cómo funciona por dentro?
+
+
 
 **Segmento 2: Trabajadores en modalidad Home Office**
 
