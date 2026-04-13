@@ -34,21 +34,22 @@ Convertirnos en el framework de referencia para proyectos de automatización amb
 ### 1.2.1. Antecedentes y problemática
 **Antecedentes:**
 
-Históricamente, la ventilación en espacios residenciales pequeños se ha limitado al uso de ventanas o ventiladores mecánicos de control manual, lo que resulta insuficiente para garantizar una adecuada calidad del aire. Con el auge del teletrabajo y la educación a distancia, las personas pasan hasta el 90 % de su tiempo en interiores, aumentando la exposición a contaminantes y a la acumulación de dióxido de carbono (CO₂). 
+Históricamente, la ventilación en espacios residenciales pequeños se ha limitado al uso de ventanas o ventiladores mecánicos de control manual, lo que resulta insuficiente para garantizar una adecuada calidad del aire. Con el auge del teletrabajo y la educación a distancia, las personas pasan hasta el 90 % de su tiempo en interiores, aumentando la exposición a contaminantes y a la acumulación de dióxido de carbono (CO₂).
 
-La Organización Mundial de la Salud advierte que en habitaciones cerradas de menos de 10 m² los niveles de CO₂ pueden duplicarse en menos de una hora, afectando directamente la capacidad cognitiva y el rendimiento académico o laboral (World Health Organization, 2006). Asimismo, el Instituto Nacional de Seguridad y Salud en el Trabajo subraya que la ventilación insuficiente es un factor de riesgo crítico en la exposición prolongada a contaminantes interiores (INSST, 2003).
+Es asi que, la Organización Mundial de la Salud advierte que en habitaciones cerradas de menos de 10 m² los niveles de CO₂ pueden duplicarse en menos de una hora, afectando directamente la capacidad cognitiva y el rendimiento académico o laboral (World Health Organization, 2006). Asimismo, el Instituto Nacional de Seguridad y Salud en el Trabajo subraya que la ventilación insuficiente es un factor de riesgo crítico en la exposición prolongada a contaminantes interiores (INSST, 2003).
+
+En este contexto, la necesidad de soluciones tecnológicas que automaticen y optimicen la ventilación se vuelve cada vez más urgente. La pandemia de la COVID-19 actuó como catalizador, visibilizando la importancia de contar con sistemas inteligentes capaces de monitorear y regular la calidad del aire en tiempo real. Sin embargo, la adopción de estas tecnologías sigue siendo limitada, lo que abre un espacio para propuestas innovadoras como Ventix, que buscan democratizar el acceso a herramientas de control ambiental bajo un modelo de código abierto (Dave, Sivajohan, Basmaji, & Slessarev, 2022).
 
 **Problemática:**
 
-El problema central radica en la degradación invisible del entorno interior. El ser humano no detecta cambios sutiles en la calidad del aire o la temperatura hasta que el malestar físico (como sudoración, somnolencia o falta de concentración) ya está presente. Informes recientes señalan que la ausencia de sistemas automatizados de ventilación y monitoreo contribuye a la disminución del rendimiento cognitivo y al incremento del riesgo de transmisión de enfermedades en espacios cerrados (Eurofins Environment Testing Spain, 2025). Además, estudios sobre tecnologías abiertas y colaborativas demuestran que los enfoques de código abierto pueden acelerar la democratización del acceso a soluciones de control ambiental, permitiendo que comunidades y organizaciones implementen sistemas inteligentes de ventilación con mayor transparencia y eficiencia (Dave, Sivajohan, Basmaji, & Slessarev, 2022).
+Riesgo invisible en espacios cerrados:
+La degradación ambiental interior ocurre de manera silenciosa y pasa desapercibida para quienes habitan los espacios. Las personas no perciben cambios en la calidad del aire hasta que el malestar físico —como somnolencia, sudoración o falta de concentración— ya se manifiesta. Este fenómeno convierte al aire contaminado en un riesgo latente que afecta la salud y disminuye la productividad en hogares, oficinas y aulas (Eurofins Environment Testing Spain, 2025).
 
-Las soluciones actuales presentan limitaciones:
+Limitaciones de las soluciones actuales:
+Los sistemas de ventilación disponibles en el mercado presentan barreras significativas. Los manuales requieren intervención constante del usuario, los centralizados resultan costosos y poco viables para espacios pequeños, y las aplicaciones IoT comerciales suelen ser privadas y poco transparentes con los datos del usuario (World Health Organization, 2021). Estas limitaciones restringen el acceso a tecnologías que deberían ser universales y accesibles, dejando a estudiantes y profesionales sin alternativas prácticas para mejorar su entorno.
 
-      Manuales: requieren que el usuario interrumpa su flujo de trabajo.
-
-      Costosas: los sistemas de aire acondicionado centralizado no son accesibles para todos.
-
-      Privadas: muchas aplicaciones de IoT comerciales no son transparentes con los datos del usuario.
+Ausencia de plataformas abiertas e integradas:  
+No existe una solución open source que unifique el monitoreo, la automatización y la gestión ambiental en un solo sistema. Los modelos cerrados predominan en el mercado, limitando la transparencia y la posibilidad de colaboración comunitaria. Este vacío tecnológico abre la oportunidad para iniciativas como Ventix, que buscan ofrecer un framework abierto y accesible para democratizar el bienestar inteligente y garantizar ambientes saludables y sostenibles (Dave, Sivajohan, Basmaji, & Slessarev, 2022).
 
 **Analisis 5W + 2H:**
 
