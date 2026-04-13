@@ -171,7 +171,7 @@ Luego de haber realizado el análisis de nuestra solución con respecto a soluci
 
 ¿Te genera confianza una plataforma que sea Open Source y te permita ver (o incluso modificar) cómo funciona por dentro?
 
-
+.
 
 **Segmento 2: Trabajadores en modalidad Home Office**
 
@@ -328,14 +328,16 @@ En esta sección se presenta el análisis detallado de la información recolecta
 
 **Análisis de Características Objetivas y Subjetivas**  
 El análisis revela condiciones ambientales deficientes en espacios de estudio. Como se detalla en el gráfico a continuación:  
+
 El 100% de los estudiantes entrevistados suele cerrar puertas y ventanas por privacidad o ruido, lo que limita la ventilación. Un 80% manifestó sentir somnolencia o pesadez después de dos horas de estudio continuo, y un 70% reconoció que su concentración disminuye cuando el aire se siente pesado o caluroso. El 60% considera molesto tener que interrumpir el estudio para ajustar un ventilador, mientras que un 40% lo ve como una rutina inevitable. A nivel subjetivo, el 90% mostró interés en soluciones simples y económicas, y un 70% expresó confianza en plataformas open source que les permitan entender cómo funciona el sistema.  
 
 //grafica
 
 ### Segmento 2: Profesionales en Modalidad Home Office  
 
-**Análisis de Características Objetivas y Subjetivas**  
+**Análisis de Características Objetivas y Subjetivas** 
 Los datos confirman una experiencia deficiente en espacios laborales domésticos. Como se detalla en el gráfico a continuación:  
+
 El 100% de los profesionales entrevistados mantiene la puerta cerrada durante reuniones para evitar ruidos, lo que reduce la circulación de aire. Un 75% reportó agotamiento mental al final de la jornada, asociado más al ambiente físico que al estrés laboral. El 80% considera que su productividad baja después del mediodía debido al encierro, y el 70% indicó que manipular varias veces al día ventiladores o ventanas rompe su estado de concentración. Subjetivamente, el 60% expresó preocupación por la privacidad en dispositivos smart comerciales, mientras que el 100% valoró la idea de una solución open source con interfaz web minimalista y transparente.  
 
 //grafica 
@@ -343,6 +345,7 @@ El 100% de los profesionales entrevistados mantiene la puerta cerrada durante re
 ### Análisis Comparativo  
 
 **Contrastación de Segmentos**  
+
 Al comparar ambos grupos, encontramos coincidencias vitales para el producto: tanto estudiantes como profesionales reconocen la necesidad de **automatizar y centralizar la gestión ambiental**. Sin embargo, existe una diferencia en la percepción de la “preocupación”: los estudiantes priorizan la **simplicidad y bajo costo** como factor decisivo, mientras que los profesionales ponen mayor énfasis en la **privacidad y transparencia de datos**.  
 
 Esto define nuestra propuesta de valor: **eficiencia y accesibilidad para estudiantes, soberanía de datos y confianza para profesionales**.  
