@@ -345,8 +345,9 @@ El 100% de los profesionales entrevistados mantiene la puerta cerrada durante re
 ### Análisis Comparativo  
 
 **Contrastación de Segmentos**  
+Al comparar ambos grupos, encontramos coincidencias vitales para el producto: 
 
-Al comparar ambos grupos, encontramos coincidencias vitales para el producto: tanto estudiantes como profesionales reconocen la necesidad de **automatizar y centralizar la gestión ambiental**. Sin embargo, existe una diferencia en la percepción de la “preocupación”: los estudiantes priorizan la **simplicidad y bajo costo** como factor decisivo, mientras que los profesionales ponen mayor énfasis en la **privacidad y transparencia de datos**.  
+Tanto estudiantes como profesionales reconocen la necesidad de **automatizar y centralizar la gestión ambiental**. Sin embargo, existe una diferencia en la percepción de la “preocupación”, los estudiantes priorizan la **simplicidad y bajo costo** como factor decisivo, mientras que los profesionales ponen mayor énfasis en la **privacidad y transparencia de datos**.  
 
 Esto define nuestra propuesta de valor: **eficiencia y accesibilidad para estudiantes, soberanía de datos y confianza para profesionales**.  
 
