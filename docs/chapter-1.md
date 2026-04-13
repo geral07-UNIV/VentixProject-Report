@@ -15,10 +15,10 @@ Nos diferenciamos por ofrecer un framework abierto, flexible y escalable, capaz 
 
 Nuestra propuesta está diseñada para adaptarse a distintos niveles de necesidad, desde hogares pequeños hasta instituciones educativas y organizaciones de gran escala. Con ello, buscamos democratizar la tecnología, generar confianza en la comunidad y elevar los estándares de bienestar ambiental a un nuevo nivel. Ventix no es solo un sistema de ventilación automatizado. Es una plataforma abierta, un puente entre innovación tecnológica y salud colectiva, y un compromiso hacia un nuevo paradigma de bienestar inteligente.
 
-# Misión
+#### Misión
 Mejorar la salud y productividad de las personas mediante la automatización inteligente del entorno, utilizando software open source y hardware accesible. En Ventix nos enfocamos en la innovación constante, la colaboración comunitaria y la integración de herramientas digitales que fortalezcan la confianza y mejoren la calidad de vida en espacios cerrados.
 
-# Visión
+#### Visión
 Convertirnos en el framework de referencia para proyectos de automatización ambiental en la comunidad de código abierto para el año 2028. Aspiramos a transformar la gestión de la ventilación en un proceso transparente, confiable y humano, acompañando a comunidades e instituciones en la creación de una nueva era de bienestar integral.
 
 ### 1.1.2. Perfiles de integrantes del equipo
