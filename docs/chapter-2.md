@@ -6,12 +6,7 @@
 Para Ventix, hemos identificado tres tipos de competidores que actualmente dominan o influyen en el mercado del confort ambiental:
 
 - Gigantes del Smart Home (Xiaomi, Philips): Ofrecen ventiladores y purificadores con apps robustas pero cerradas.
-
-
-
 - Sistemas de Gama Alta (Dyson): Soluciones premium con sensores de alta precisión, pero a precios inalcanzables para el estudiante promedio.
-
-
 - Proyectos DIY de Nicho: Repositorios en GitHub de control básico de ventiladores, que son abiertos pero carecen de una interfaz web profesional o una API documentada.
 
 ### 2.1.1. Análisis competitivo.
@@ -130,32 +125,14 @@ Para Ventix, hemos identificado tres tipos de competidores que actualmente domin
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-#### Fortalezas y Oportunidades:
+Luego de haber realizado el análisis de nuestra solución con respecto a soluciones ya existentes, nuestro equipo procederá a plantear estrategias y tácticas que debemos poner en marcha para sobresalir de las otras soluciones.
 
-- Diferenciación técnica: Enfoque en la soberanía de datos (privacidad) y monitoreo especializado de $CO_2$ para la productividad.
+#### Matriz CAME para el desarrollo de estrategias en base al análisis FODA
 
-
-- Crecimiento orgánico: Aprovechamiento de la cultura Wellness y el respaldo de la comunidad Open Source para mejorar el software sin costos añadidos.
-
-#### Aprovechamiento de Debilidades y Amenazas de los Competidores:
-
-- Seguridad y Costo: Posicionamiento como alternativa local-first frente a la inseguridad de nubes externas (Xiaomi) y como opción democrática frente a los precios prohibitivos de la competencia premium (Dyson).
-
-
-- UX Superior: Superar la complejidad de los proyectos DIY mediante una interfaz profesional en Angular y una API documentada.
-
-#### Estrategias de Marketing:
-
-- Nicho Técnico y de Salud: Difusión en comunidades de desarrolladores (GitHub/Dev.to) y campañas de concientización sobre fatiga ambiental dirigidas a estudiantes en exámenes y trabajadores remotos.
-
-
-- Alianzas Maker: Colaboración con clubes tecnológicos universitarios para validar y expandir el ecosistema Ventix.
-
-#### Costos y Precios:
-
-Inversión mínima: Software gratuito (Open Source) con un costo de hardware (BOM) accesible de entre  35 USD y 50 USD.
-
-Ventaja económica: Reducción de costos de hasta un 90% en comparación con sistemas comerciales inteligentes de gama media y alta.
+| **Análisis FODA cruzado** | **Oportunidades** | **Amenazas** |
+|---|---|---|
+| **Fortalezas (F)**<br>1. Enfoque en soberanía de datos y privacidad.<br>2. Modelo open source con hardware accesible.<br>3. Especialización en monitoreo de CO₂ y productividad académica/laboral.<br>4. Costos de implementación bajos frente a sistemas comerciales. | **Estrategia (FO) — Estrategias Ofensivas**<br>1. Alianzas con comunidades universitarias y makers para validar prototipos y expandir el ecosistema Ventix.<br>2. Posicionamiento como solución académica y de teletrabajo, destacando impacto en concentración y salud.<br>3. Roadmap de integraciones IoT: sensores de CO₂, humedad y temperatura con APIs abiertas.<br>4. Campañas de concientización sobre “fatiga ambiental” dirigidas a estudiantes y profesionales remotos.<br>5. Estrategia freemium → up-sell: kits básicos para adopción rápida y planes premium para instituciones educativas. | **Estrategia (FA) — Estrategias Defensivas**<br>1. Documentar y comunicar políticas de seguridad y privacidad adaptadas a entornos académicos y laborales.<br>2. Ofrecer soporte local y comunidad activa en GitHub para contrarrestar ecosistemas cerrados.<br>3. Diferenciarse por transparencia y accesibilidad frente a competidores globales (Xiaomi, Dyson).<br>4. Diseñar funcionalidades offline/parciales para minimizar fricción en zonas con conectividad limitada.<br>5. Difundir resultados de pilotos y casos de uso en universidades para contrarrestar la ventaja presupuestal de marcas establecidas. |
+| **Debilidades (D)**<br>1. Bajo reconocimiento de marca (startup emergente).<br>2. Recursos limitados frente a gigantes del Smart Home.<br>3. Madurez inicial en integraciones empresariales.<br>4. Necesidad de validación en distintos contextos académicos y laborales. | **Estrategia (DO) — Reorientación**<br>1. Validación rápida con Lean UX: pruebas de usabilidad y pilotos documentados en aulas y oficinas.<br>2. Buscar subvenciones y programas de innovación tecnológica para financiar pilotos.<br>3. Generar contenido técnico y académico: whitepapers, casos de estudio y guías para decisores.<br>4. Priorizar desarrollo de APIs públicas y SDKs para integradores, reduciendo fricción de adopción.<br>5. Crear un programa de partners locales (clubes makers, consultoras) para escalar despliegues sin aumentar plantilla interna. | **Estrategia (DA) — Supervivencia**<br>1. Priorizar seguridad e infraestructura crítica: backups automáticos, alta disponibilidad y pruebas de penetración.<br>2. Política de precios defensiva inicial: kits entry-level competitivos y promociones para ganar masa crítica.<br>3. Obtener certificaciones de seguridad y calidad ambiental como sello de confianza.<br>4. Buscar aceleradoras y socios estratégicos que aporten recursos sin diluir el control del producto.<br>5. Formalizar un plan de gestión de incidentes y comunicación para reducir impacto reputacional. |
 
 ## 2.2. Entrevistas
 
@@ -193,6 +170,8 @@ Ventaja económica: Reducción de costos de hasta un 90% en comparación con sis
 ¿Qué tan dispuesto estarías a armar tu propio dispositivo (DIY) si el costo total fuera menor a 40 dólares?
 
 ¿Te genera confianza una plataforma que sea Open Source y te permita ver (o incluso modificar) cómo funciona por dentro?
+
+.
 
 **Segmento 2: Trabajadores en modalidad Home Office**
 
@@ -341,10 +320,68 @@ Resumen:
 
 Resumen:
 
-### 2.2.3. Análisis de entrevistas
+### 2.2.3. Análisis de entrevistas 
+
+En esta sección se presenta el análisis detallado de la información recolectada. Para cada segmento, se explican primero los hallazgos estadísticos objetivos y subjetivos, seguidos de la evidencia gráfica correspondiente.  
+
+### Segmento 1: Estudiantes Universitarios en Espacios Cerrados  
+
+**Análisis de Características Objetivas y Subjetivas**  
+El análisis revela condiciones ambientales deficientes en espacios de estudio. Como se detalla en el gráfico a continuación:  
+
+El 100% de los estudiantes entrevistados suele cerrar puertas y ventanas por privacidad o ruido, lo que limita la ventilación. Un 80% manifestó sentir somnolencia o pesadez después de dos horas de estudio continuo, y un 70% reconoció que su concentración disminuye cuando el aire se siente pesado o caluroso. El 60% considera molesto tener que interrumpir el estudio para ajustar un ventilador, mientras que un 40% lo ve como una rutina inevitable. A nivel subjetivo, el 90% mostró interés en soluciones simples y económicas, y un 70% expresó confianza en plataformas open source que les permitan entender cómo funciona el sistema.  
+
+//grafica
+
+### Segmento 2: Profesionales en Modalidad Home Office  
+
+**Análisis de Características Objetivas y Subjetivas** 
+Los datos confirman una experiencia deficiente en espacios laborales domésticos. Como se detalla en el gráfico a continuación:  
+
+El 100% de los profesionales entrevistados mantiene la puerta cerrada durante reuniones para evitar ruidos, lo que reduce la circulación de aire. Un 75% reportó agotamiento mental al final de la jornada, asociado más al ambiente físico que al estrés laboral. El 80% considera que su productividad baja después del mediodía debido al encierro, y el 70% indicó que manipular varias veces al día ventiladores o ventanas rompe su estado de concentración. Subjetivamente, el 60% expresó preocupación por la privacidad en dispositivos smart comerciales, mientras que el 100% valoró la idea de una solución open source con interfaz web minimalista y transparente.  
+
+//grafica 
+
+### Análisis Comparativo  
+
+**Contrastación de Segmentos**  
+Al comparar ambos grupos, encontramos coincidencias vitales para el producto: 
+
+Tanto estudiantes como profesionales reconocen la necesidad de **automatizar y centralizar la gestión ambiental**. Sin embargo, existe una diferencia en la percepción de la “preocupación”, los estudiantes priorizan la **simplicidad y bajo costo** como factor decisivo, mientras que los profesionales ponen mayor énfasis en la **privacidad y transparencia de datos**.  
+
+Esto define nuestra propuesta de valor: **eficiencia y accesibilidad para estudiantes, soberanía de datos y confianza para profesionales**.  
+
+//grafica 
+
+### Conclusiones y Definición de Arquetipos  
+
+**User Persona Estudiante ("El Aprendiz Concentrado")**  
+Rasgo clave: Busca mejorar su rendimiento académico en espacios reducidos.  
+Sustento: El 80% reporta somnolencia y pérdida de concentración, y el 90% exige soluciones simples y económicas. La solución debe tener una curva de aprendizaje mínima y un costo accesible.  
+
+**User Persona Profesional ("El Teletrabajador Precavido")**  
+Rasgo clave: Necesita control y transparencia para reducir la ansiedad y mantener productividad.  
+Sustento: El 75% reporta agotamiento físico por el ambiente y el 100% valora la soberanía de datos. La solución debe centrarse en notificaciones en tiempo real y en la privacidad del usuario.  
 
 ## 2.3. Needfinding
-### 2.3.1. User Personas
+
+A partir del análisis de entrevistas y la recolección de información sobre las dinámicas en espacios cerrados de estudio y trabajo, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución **Ventix**. Estos perfiles representan los segmentos clave para el sistema, ya que concentran tanto la necesidad de mejorar la concentración y el confort ambiental como la necesidad de contar con herramientas confiables y transparentes para la gestión del aire interior.  
+
+## 2.3.1. User Personas  
+
+La construcción de los *User Persona* permite al equipo de desarrollo comprender mejor sus motivaciones, frustraciones y hábitos, lo que resulta esencial para diseñar funcionalidades adecuadas y experiencias de usuario efectivas.  
+
+**1) Segmento 1: Estudiantes Universitarios en Espacios Cerrados**  
+Para los estudiantes se elaboró el User Persona **Maria Elena Lopez**. Se consideraron factores como su edad, rutina académica, tiempo prolongado en habitaciones cerradas y la necesidad de mantener concentración durante largas jornadas de estudio. Sus principales frustraciones giran en torno a la somnolencia y la fatiga ambiental, además de la molestia de tener que interrumpir sus actividades para ajustar manualmente la ventilación. Asimismo, se tomó en cuenta su disposición hacia soluciones simples, económicas y open source, que les permitan confiar en la tecnología sin barreras de complejidad.  
+
+//
+<br>  
+
+**2) Segmento 2: Profesionales en Modalidad Home Office**  
+Para los profesionales se elaboró el User Persona **Luis Estefano Ruiz**. Se consideraron aspectos como su edad, ocupación y su rol en la gestión de espacios de trabajo domésticos. Sus principales motivaciones están orientadas a mantener productividad y confort ambiental durante la jornada laboral, mientras que sus frustraciones se relacionan con la pérdida de concentración por manipular constantemente ventiladores o ventanas y la desconfianza hacia dispositivos smart que envían datos a nubes externas. Su perfil refleja una predisposición positiva hacia soluciones digitales open source, siempre que estas sean transparentes, confiables y fáciles de integrar en su rutina diaria.  
+
+//
+
 ### 2.3.2. User Task Matrix
 |                  |                    |                    |
 |------------------|--------------------|--------------------|
@@ -361,7 +398,43 @@ Resumen:
 |                  |                    |                    |
 
 
-### 2.3.3. User Journey Mapping.
-### 2.3.4. Empathy Mapping.
+## 2.3.3. User Journey Mapping
+### Segmento 1 – Estudiante Universitaria (María Elena López)  
+
+El User Journey Mapping de María Elena representa el recorrido actual que experimenta como estudiante universitaria en espacios cerrados, durante sus jornadas de estudio. El mapa ilustra el proceso end-to-end, desde el inicio de sus sesiones académicas hasta la gestión de pausas y la búsqueda de concentración.  
+
+En la situación As-Is, María Elena enfrenta un flujo de trabajo ambiental poco optimizado: estudia en habitaciones cerradas, ajusta manualmente ventiladores o ventanas y experimenta somnolencia después de largas horas. Esto genera interrupciones, pérdida de concentración y fatiga ambiental.  
+
+El Journey busca evidenciar los puntos críticos de su experiencia actual, identificando emociones, tareas, fricciones y oportunidades de mejora a lo largo de cada etapa (Awareness, Data Collection, Daily Study, Concentration, Breaks y Performance). Este análisis servirá como base para diseñar una solución tecnológica que automatice la ventilación, mejore la eficiencia y facilite la concentración en espacios cerrados.  
+
+**Journey Map Segmento 1**  
+
+### Segmento 2 – Profesional en Home Office (Luis Estéfano Ruiz)  
+
+El User Journey Mapping de Luis Estéfano describe la experiencia completa que vive como trabajador remoto, desde el inicio de su jornada laboral hasta la recepción de notificaciones sobre el ambiente físico de su espacio de trabajo. El mapa detalla las etapas de su recorrido end-to-end, reflejando las acciones, pensamientos, emociones y frustraciones que enfrenta actualmente sin contar con una plataforma digital centralizada.  
+
+En la situación As-Is, Luis depende de medios tradicionales como ventiladores manuales y apertura de ventanas para regular el ambiente. Esto provoca interrupciones constantes, pérdida de concentración y una sensación de agotamiento físico que no siempre se relaciona con el estrés laboral.  
+
+El Journey permite comprender su perspectiva emocional y sus puntos de dolor, mostrando los momentos clave en los que necesita información rápida, confiable y accesible sobre la calidad del aire. Este análisis busca sentar las bases para una futura solución tecnológica que le brinde productividad, transparencia y confianza, fortaleciendo su vínculo con el bienestar en el trabajo remoto.  
+
+**Journey Map Segmento 2**  
+
+
+## 2.3.4. Empathy Mapping  
+
+Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente (María Elena López y Luis Estéfano Ruiz) y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades.  
+
+### Segmento 1: Estudiantes Universitarios  
+
+**Empathy Mapping 1**  
+
+En este mapa se analizó a María Elena López, una estudiante universitaria que busca mantener concentración y rendimiento académico en espacios cerrados. Se identificó que piensa constantemente en la necesidad de contar con un ambiente fresco y controlado, ya que le preocupa que la fatiga ambiental afecte su memoria y productividad. Escucha a sus compañeros quejarse de somnolencia y observa cómo muchos deben interrumpir sus estudios para ajustar manualmente ventiladores o ventanas. María Elena expresa la necesidad de contar con una solución moderna y accesible que automatice la ventilación, y actúa implementando estrategias básicas como abrir ventanas o usar ventiladores portátiles. Su dolor principal es la pérdida de concentración y la fatiga ambiental, mientras que su ganancia esperada es lograr eficiencia en el estudio, bienestar físico y un mejor control del ambiente.  
+
+### Segmento 2: Profesionales en Home Office  
+
+**Empathy Mapping 2**  
+
+En este mapa se analizó a Luis Estéfano Ruiz, un profesional que busca mantener productividad y bienestar mientras trabaja desde casa. Él piensa en la tranquilidad que le daría tener acceso rápido y claro a la calidad del aire en su espacio de trabajo. Escucha a colegas compartir la frustración por la falta de concentración y observa que depender de ventiladores o ventanas no siempre es suficiente. Luis suele expresar la necesidad de contar con una aplicación confiable y fácil de usar, y actúa ajustando manualmente el ambiente varias veces al día. Su dolor principal es la interrupción constante y el agotamiento físico, mientras que su ganancia esperada es tener confianza, productividad y control al poder consultar la información ambiental en tiempo real desde cualquier lugar.  
+
 ## 2.4. Big Picture Event Storming.
 ## 2.5. Ubiquitous Language.
