@@ -132,7 +132,7 @@ Para Ventix, hemos identificado tres tipos de competidores que actualmente domin
 
 Luego de haber realizado el análisis de nuestra solución con respecto a soluciones ya existentes, nuestro equipo procederá a plantear estrategias y tácticas que debemos poner en marcha para sobresalir de las otras soluciones.
 
-# Matriz CAME para el desarrollo de estrategias en base al análisis FODA
+#### Matriz CAME para el desarrollo de estrategias en base al análisis FODA
 
 | **Análisis FODA cruzado** | **Oportunidades** | **Amenazas** |
 |---|---|---|
