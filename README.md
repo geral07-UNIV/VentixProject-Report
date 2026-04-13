@@ -1,4 +1,4 @@
-﻿![UPC_LOGO.png](assets/img/caratula/UPC_LOGO.png)
+![UPC_LOGO.png](assets/img/caratula/UPC_LOGO.png)
 
 
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
@@ -17,7 +17,7 @@
 |                                |                  |
 | Taipe Sangama, Jorge Francisco | U202313458       |
 | Suarez Chinga, Geraldine       | U20241C804       |
-|                                |                  |
+| Sanchez Osorio, Ruth Yanira    | U20241C626       |
 |                                |                  |
 
 Periodo: 2026-01
