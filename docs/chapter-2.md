@@ -327,6 +327,7 @@ En esta sección se presenta el análisis detallado de la información recolecta
 ### Segmento 1: Estudiantes Universitarios en Espacios Cerrados  
 
 **Análisis de Características Objetivas y Subjetivas**  
+
 El análisis revela condiciones deficientes en espacios de estudio. Como se detalla en el gráfico a continuación:  
 
 Los principales factores que afectan la experiencia de los estudiantes se concentran en la falta de ventilación (25%), la somnolencia tras largas horas de estudio continuo (20%), la disminución de la concentración debido al aire pesado o caluroso (18%), las interrupciones generadas por la necesidad de ajustar ventiladores (15%) y la percepción de falta de soluciones simples y accesibles (22%).
@@ -335,6 +336,7 @@ Los principales factores que afectan la experiencia de los estudiantes se concen
 ### Segmento 2: Profesionales en Modalidad Home Office  
 
 **Análisis de Características Objetivas y Subjetivas** 
+
 Los datos confirman una experiencia deficiente en espacios laborales domésticos. Como se detalla en el gráfico a continuación:  
 
 Los principales factores que afectan el desempeño en modalidad home office se concentran en el encierro y la limitada ventilación durante reuniones (24%), la disminución de la productividad después del mediodía (19%), el agotamiento mental asociado al ambiente físico (18%), las interrupciones generadas por la manipulación constante de ventiladores o ventanas (17%) y la preocupación por la privacidad junto con la necesidad de soluciones tecnológicas confiables (22%).
@@ -343,6 +345,7 @@ Los principales factores que afectan el desempeño en modalidad home office se c
 ### Análisis Comparativo  
 
 **Contrastación de Segmentos**  
+
 Al comparar ambos grupos, encontramos coincidencias vitales para el producto:
 
 Tanto estudiantes como profesionales evidencian que los principales factores que afectan su desempeño están relacionados con condiciones ambientales deficientes, especialmente la falta de ventilación y las interrupciones durante sus actividades. En ambos segmentos, estos factores representan una proporción relevante dentro del análisis (entre 15% y 25%), lo que refuerza la necesidad de automatizar y centralizar la gestión del entorno para mejorar la experiencia.
@@ -356,10 +359,12 @@ Esto define nuestra propuesta de valor: eficiencia y accesibilidad para estudian
 ### Conclusiones y Definición de Arquetipos  
 
 **User Persona Estudiante ("El Aprendiz Concentrado")**  
+
 Rasgo clave: Busca mejorar su rendimiento académico en espacios cerrados.
 Sustento: Los factores más influyentes en su experiencia son la falta de ventilación (25%), la somnolencia (20%) y la percepción de falta de soluciones accesibles (22%). Esto evidencia que necesita un entorno cómodo y herramientas simples que no interrumpan su flujo de estudio. La solución debe tener una curva de aprendizaje mínima y un costo accesible.
 
 **User Persona Profesional ("El Teletrabajador Precavido")**  
+
 Rasgo clave: Necesita control del entorno sin comprometer su privacidad.
 Sustento: Los principales factores que afectan su desempeño incluyen el encierro y la ventilación limitada (24%), la disminución de la productividad (19%) y la preocupación por la privacidad (22%). Esto indica que prioriza soluciones que le permitan mantener productividad con control y transparencia. La solución debe centrarse en monitoreo en tiempo real y protección de datos.
 
